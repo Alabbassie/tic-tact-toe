@@ -1,0 +1,9 @@
+D:\school\tic-tact-toe\spel\bin\Debug\spel.exe.config
+D:\school\tic-tact-toe\spel\bin\Debug\spel.exe
+D:\school\tic-tact-toe\spel\bin\Debug\spel.pdb
+D:\school\tic-tact-toe\spel\obj\Debug\spel.csprojAssemblyReference.cache
+D:\school\tic-tact-toe\spel\obj\Debug\spel.form1.resources
+D:\school\tic-tact-toe\spel\obj\Debug\spel.Properties.Resources.resources
+D:\school\tic-tact-toe\spel\obj\Debug\spel.csproj.GenerateResource.cache
+D:\school\tic-tact-toe\spel\obj\Debug\spel.exe
+D:\school\tic-tact-toe\spel\obj\Debug\spel.pdb
